@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>AAE_Metabot_Level_0</RootNamespace>
-  </PropertyGroup>
-
-</Project>
